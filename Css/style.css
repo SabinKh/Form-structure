@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+}
+.submit{
+    padding: 6px;
+    margin-left: 100px;
+    color:#364D64 ; 
+    background-color: #5C88DD;
+}
+body{
+    width: 255mm;
+    height: 100%;
+    background:#CCCCCC;
+    font-size: 15px;
+    margin: 0 auto;
+    padding: 0;
+}
+*{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.main{
+    width: 200mm;
+    min-height: 170mm;
+    margin: 10mm auto;
+    background: white;
+    box-shadow: 10cm tomato;
+    border:initial;
+    background: initial;
+    
+}
